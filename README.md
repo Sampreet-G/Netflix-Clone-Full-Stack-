@@ -42,7 +42,7 @@ npm install
 5. **Start the development server:**
 npm run dev
 
-6. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+6. Open [http://localhost:3000](http://localhost:5173) to view the app in your browser.
 
 ## Project Structure
 
