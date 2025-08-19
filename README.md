@@ -1,4 +1,4 @@
-# Netflix Clone React App
+# Netflix Clone React App by Sampreet Ghosh
 
 A full-featured Netflix clone built with React, Firebase, and Vite. This project replicates core Netflix functionalities including user authentication, movie browsing, and trailer playback with a sleek, modern UI.
 
